@@ -1,2 +1,3 @@
 # termproject
-Term project
+Play Hangman and Guess the words
+
