@@ -126,7 +126,7 @@ def play_hangman():
     
     
 
-    print("Welcome to Hangman!")
+    print("Welcome to Hangman!. You have 6 guesses, good luck!")
     display_hangman(incorrect_guesses)
 
     while incorrect_guesses < max_incorrect_guesses:
